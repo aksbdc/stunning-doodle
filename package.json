@@ -1,0 +1,22 @@
+{
+  "name": "stunning-doodle",
+  "version": "1.0.0",
+  "description": "Claude code overview from the Spring 2025 semester at Alaska SBDC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aksbdc/stunning-doodle.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aksbdc/stunning-doodle/issues"
+  },
+  "homepage": "https://github.com/aksbdc/stunning-doodle#readme",
+  "dependencies": {
+    "@anthropic-ai/claude-code": "^0.2.14"
+  }
+}
